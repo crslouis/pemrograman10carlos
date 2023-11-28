@@ -2,8 +2,8 @@
 
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Ihsan rangga mahendra  |
-| **NIM** | 312310494 |
+| **Nama** | Carlos Louis Fernando  |
+| **NIM** | 312310458 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
